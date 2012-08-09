@@ -1,6 +1,6 @@
 //
 //  NSDate+Category.m
-//  EatUp
+//  
 //
 //  Created by Youri on 08.08.12.
 //  Copyright (c) 2012 MyCompanyName. All rights reserved.
